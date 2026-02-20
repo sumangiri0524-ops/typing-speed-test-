@@ -7,7 +7,7 @@ Built with clean UI and smooth user experience.
 🌟 Live Demo
 
 🔗 Live Site: Add your deployed link here
-📦 Repository: https://github.com/sumangiri0524-ops/typing-speed-test
+📦 Repository: http://127.0.0.1:3000/index.html
 
 🚀 Features
 🎯 Core Functionality
